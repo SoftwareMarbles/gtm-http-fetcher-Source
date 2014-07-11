@@ -242,6 +242,7 @@
 #pragma once
 
 #import <Foundation/Foundation.h>
+#import "NamespacedDependencies.h"
 
 #if defined(GTL_TARGET_NAMESPACE)
   // we're using target namespace macros
