@@ -22,6 +22,7 @@
 // A good reference for MIME is http://en.wikipedia.org/wiki/MIME
 
 #import <Foundation/Foundation.h>
+#import "NamespacedDependencies.h"
 
 #if defined(GTL_TARGET_NAMESPACE)
   // we're using target namespace macros

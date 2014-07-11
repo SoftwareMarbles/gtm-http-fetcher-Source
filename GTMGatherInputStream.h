@@ -24,6 +24,7 @@
 // stream have completed.
 
 #import <Foundation/Foundation.h>
+#import "NamespacedDependencies.h"
 
 #if defined(GTL_TARGET_NAMESPACE)
   // we need NSInteger for the 10.4 SDK, or we're using target namespace macros
